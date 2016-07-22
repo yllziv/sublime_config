@@ -38,11 +38,11 @@ Ctrl + Shift + P; 输入remove install
 - Bracket​Highlighter——括号高亮匹配；
 - Pretty JSON——JSON美化扩展
 - JavaScript Snippets js代码自动提示
-- ★Sublime CodeIntel 代码自动提示
 - Emmet 是一个插件，它可以让你更快更高效地编写HTML和CSS
 - AllAutocomplete 插件会搜索所有打开的文件来寻找匹配的提示词
 - JS 格式化插件 JsFormat: 快捷键：ctrl+alt+f
-- sass  ，高亮sass代码
+- SyncedSideBar，支持当前文件自动在左侧面板中定位
+- sass，高亮sass代码
 
 ### 在mac命令行中启动 Sublime
 vim /etc/profile ，vim ~/.bashrc 设定 alias 内容：
